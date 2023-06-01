@@ -10,8 +10,10 @@ Once you have downloaded the executable file, navigate to the bin folder and dou
 ##### If you prefer to compile the source code yourself, you will need to have the following software installed on your computer:
 
 * Microsoft Visual Studio
-.NET Framework
-* To compile and run the program, follow these steps:
+* .NET Framework
+
+
+##### To compile and run the program, follow these steps:
 
 Clone or download the source code for the Banking Program from this repository.
 Open the solution file (WindowsFormsApp2.sln) in Visual Studio.
@@ -29,5 +31,3 @@ This will compile and run the program, allowing you to use it on your Windows ma
         we use queue data structure to customer service .. A 20 seconds before the client's turn comes we notify him by voice and after 20 second we tell him that his turn has come
 
         
-
----
