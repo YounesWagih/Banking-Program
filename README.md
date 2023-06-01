@@ -28,6 +28,6 @@ This will compile and run the program, allowing you to use it on your Windows ma
     i dont use database or file storge to make it small project ... so to save the customers accounts we use directory that is similar to map container to make search faster
 
  *   ### customer service
-        we use queue data structure to customer service .. A 20 seconds before the client's turn comes we notify him by voice and after 20 second we tell him that his turn has come
+        we use queue data structure to customer service .. A 20 seconds before the client's turn comes we sent notification on his screen and after 20 second we tell him that his turn has come by voice 
 
         
